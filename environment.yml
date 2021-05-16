@@ -1,4 +1,4 @@
-name: efficientPS_env
+name: base
 channels:
   - defaults
 dependencies:
